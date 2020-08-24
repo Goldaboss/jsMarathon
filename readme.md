@@ -1,1 +1,1 @@
-jsMarathon
+https://goldaboss.github.io/jsMarathon/
